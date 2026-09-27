@@ -1,4 +1,4 @@
-﻿//Introduction to C#====>
+﻿//Introduction to C# 
 
 //In this session we will learn 
 //Basic structure of c# program
@@ -42,18 +42,52 @@ Main method is the entry point into your application.
 //}
 
 
-using System;
-class Program
-{
-    static void Main1()
-    {
-        Console.WriteLine("Hello Sanjeev Kumar");
+//using System;
+//class Program
+//{
+//    static void Main1()
+//    {
+//        Console.WriteLine("Hello Sanjeev Kumar");
 
+//    }
+//    static void Main()
+//    {
+//        Console.WriteLine("Welcome to C# Training");
+//        Main1();
+
+//    }
+//}
+
+using System;
+class Engineer
+{
+    //static void Main()
+    //{
+    //    Console.WriteLine("Hello Sanjeev Developer");
+    //    Main1();
+    //}
+
+    //static void Main1()
+    //{
+    //    Console.WriteLine("Hello Sanjeev bro");
+    //}
+
+    public void DisplayTitle()
+    {
+        Console.WriteLine("Sanjeev Kumar Full Stack Engineer");
     }
+    public void DisplayRole()
+    {
+        Console.WriteLine("Sanjeev Kumar Software Engineer");
+    }
+}
+
+class Sanjeev
+{
     static void Main()
     {
-        Console.WriteLine("Welcome to C# Training");
-        Main1();
-
+        Engineer Sanjeev = new Engineer();
+        Sanjeev.DisplayTitle();
+        Sanjeev.DisplayRole();
     }
 }
