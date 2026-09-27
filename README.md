@@ -6,6 +6,7 @@ This repository documents my C# learning journey with practical examples and han
 
 - ✅ Part 1 - Sample Program, Using Namespace, Main() Method
 - ✅ Part 2 - Reading & Writing to Console
+- ✅ Part 3 - Built-in Integral Types (sbyte, byte, char, short, ushort, int, uint, long, ulong)
 
 ## 📚 C# Learning Journey
 
@@ -13,29 +14,8 @@ This repository documents my C# learning journey with practical examples and han
 |------|----------------------------------------------|--------|
 | Part 1 | Sample Program, Using Namespace, Main() Method | ✅ Completed |
 | Part 2 | Reading & Writing to Console | ✅ Completed |
+| Part 3 | Built-in Integral Types (sbyte, byte, char, short, ushort, int, uint, long, ulong) | ✅ Completed |
 | More | Coming Soon | 🚀 |
-
-## 📂 Repository Structure
-
-```text
-CSharp_Sanjeev_Learning/
-│
-├── Part1/
-│   └── Part1/
-│       ├── Part1.sln
-│       └── Part1/
-│           ├── Part1.csproj
-│           └── Program.cs
-│
-├── Part2/
-│   └── Part2/
-│       ├── Part2.sln
-│       └── Part2/
-│           ├── Part2.csproj
-│           └── Program.cs
-│
-└── README.md
-```
 
 ## 🛠️ Technologies Used
 
