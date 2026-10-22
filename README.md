@@ -7,6 +7,7 @@ This repository documents my C# learning journey with practical examples and han
 - ✅ Part 1 - Sample Program, Using Namespace, Main() Method
 - ✅ Part 2 - Reading & Writing to Console
 - ✅ Part 3 - Built-in Integral Types (sbyte, byte, char, short, ushort, int, uint, long, ulong)
+- ✅ Part 4 - Built-in Types, Escape Sequences, Verbatim Literals & Method Overloading
 
 ## 📚 C# Learning Journey
 
@@ -15,6 +16,7 @@ This repository documents my C# learning journey with practical examples and han
 | Part 1 | Sample Program, Using Namespace, Main() Method | ✅ Completed |
 | Part 2 | Reading & Writing to Console | ✅ Completed |
 | Part 3 | Built-in Integral Types (sbyte, byte, char, short, ushort, int, uint, long, ulong) | ✅ Completed |
+| Part 4 | Built-in Types (Boolean, Floating-Point, Decimal & String), Escape Sequences, Verbatim Literals & Method Overloading
 | More | Coming Soon | 🚀 |
 
 ## 🛠️ Technologies Used
